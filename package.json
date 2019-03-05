@@ -1,0 +1,17 @@
+{
+  "name": "market_cpp_docs",
+  "version": "0.0.1",
+  "description": "Docs for financial cpp libraries",
+  "main": "index.js",
+  "scripts": {
+    "cpp:docs:dev": "vuepress dev cpp",
+    "cpp:docs:build": "vuepress build cpp",
+    "js:docs:dev": "vuepress dev js",
+    "js:docs:build": "vuepress build js"
+  },
+  "author": "William Hoyle <will.hoyle@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.10"
+  }
+}
