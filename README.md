@@ -1,3 +1,4 @@
+![](./cpp/assets/logo.png)
 # Financial cpp
 
 Highly performant financial market toolchain
