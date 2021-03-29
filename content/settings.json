@@ -1,0 +1,9 @@
+{
+    "title": "Financialcpp docs",
+    "url": "docs.financialcpp.com",
+    "logo": {
+        "light": "/fpp-docs-light.png",
+        "dark": "/fpp-docs-dark.png"
+    },
+    "github": "financialcpp/docs"
+}
