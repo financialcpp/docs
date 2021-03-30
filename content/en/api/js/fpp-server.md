@@ -36,6 +36,8 @@ const server = new FppServer({
 ### `ui`
 `Object` or `false` to disable.
 
+
+
 #### `ui.nuxt`
 `Function` or `Object`
 
@@ -51,22 +53,5 @@ new FppServer({
     }
 })
 ```
-
-#### `ui.next`
-`Function` or `Object`
-
-We don't support 
-
-```js
-new FppServer({
-    ui: {
-        nuxt: (config) => {
-            // add your own stuff, or modify the defaults
-            return config
-        }
-    }
-})
-```
-
 
 

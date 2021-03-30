@@ -5,30 +5,9 @@ position: 6
 category: 'API - c++'
 ---
 
-Since the backend exposes a GraphQL API, the UI can be written in anything that talks GraphQL.
-
-## UI-framework
-
-React, Vue, Angular, Svelte, Elm, Meteor. There's a million different ways to write a UI these days. We recognized this from the start and decided to build a robust GraphQL interface as the boundary language between the UI and the backend. 
-
-Just run the financialcpp graphQL server and consume the API from your UI-framework of choice (React, Svelte, Angular, Elm, etc...).
-
-```bash
-npm install financialcpp
+```cpp
+#include "financial.hpp"
 ```
 
-```js[server.js]
-import { FppServer } from 'financialcpp'
-
-const server = new FppServer({
-    // disable default ui
-    ui: false
-})
-
-server.listen().then({graphql}) => {
-    console.log(`🚀 Server ready at ${graphql.url}`)
-}
-```
-You can access the GraphQL docs at the `/graphql` endpoint printed in the terminal.
-
-<!-- See [FppServer docs](/api/js/fpp-server) for more info on options you can pass it to customize it. -->
+Docs are hard work while we're still iterating on the final design. For now, we recommend you check the source:
+[https://github.com/financialcpp/financialcpp](https://github.com/financialcpp/financialcpp)

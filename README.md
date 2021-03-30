@@ -1,6 +1,6 @@
 ![financialcpp docs logo](./static/fpp-docs-light.png)
 
-[docs.financialcpp.com]([docs.financialcpp.com)
+[financialcpp.com]([financialcpp.com)
 
 This is the documentation website for **financialcpp**, a c++ stock trading framework with high quality javascript bindings
 

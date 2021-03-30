@@ -1,7 +1,7 @@
 ---
 title: Quick Start
 description: ''
-position: 1
+position: 2
 category: Setup
 ---
 
@@ -30,4 +30,17 @@ Create from template:
   </code-block>
 </code-group>
 
-Then, `cd <project-name>
+The template will take care of installing packages.
+
+```bash
+npm run dev
+```
+
+You should see the following in your console:
+
+```bash
+🚀 Server started at http://localhost:3000
+```
+
+There's much more to learn but you can open your browser at the address and get familiar with the interface.
+
