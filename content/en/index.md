@@ -17,7 +17,7 @@ C++ stock trading framework with javascript bindings
 <img src="/fpp-diagram.png" class="light-img my-16" alt=""/>
 <img src="/fpp-diagram-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
-
+<demo-button></demo-button>
 
 <alert type="info">
 

@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: ''
+description: Component overview
 position: 3
 category: Components
 providers:

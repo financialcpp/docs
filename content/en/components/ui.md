@@ -1,6 +1,6 @@
 ---
 title: UI
-description: ''
+description: User interface for financialcpp
 position: 4
 category: Components
 ---

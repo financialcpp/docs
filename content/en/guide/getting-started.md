@@ -1,11 +1,13 @@
 ---
-title: Quick Start
+title: Getting started
 description: ''
-position: 2
-category: Setup
+position: 3
+category: Extending financialcpp
 ---
 
-The easiest way to try out **financialcpp** is to use the batteries-included starter template.
+At this point, you might be thinking you want to 
+
+The easiest way to get started with **financialcpp** is to use the batteries-included starter template.
 
 ## Installation
 
@@ -42,5 +44,5 @@ You should see the following in your console:
 🚀 Server started at http://localhost:3000
 ```
 
-There's much more to learn but you can open your browser at the address and get familiar with the interface.
+There's much more to learn but you can open your browser at the address and get familiar with the trading interface.
 
