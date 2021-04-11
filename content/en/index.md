@@ -4,12 +4,12 @@ description: ''
 position: 1
 category: ''
 features:
-  - C++ performance with JavaScript bindings
+  - C++ performance with JavaScript bindings (npm install)
   - Research, Backtesting, Forward-testing
   - UI-framework agnostic (React, Vue, Svelte, etc...)
   - Paper/Live trading with Interactive Brokers
-  - Tick/Candle storage
-  - Interface with any data provider
+  - Tick/Candle storage solution ()
+  - Live data provider (activetick.com) included (costs $)
 ---
 
 C++ stock trading framework with javascript bindings
@@ -21,7 +21,7 @@ C++ stock trading framework with javascript bindings
 
 <alert type="info">
 
-Docs are a work in progress. Leave an issue [here](https://github.com/financialcpp/docs) to let us know where the docs can improve!
+Docs are a work in progress. Leave an issue [here](https://github.com/financialcpp/docs/issues/new) to let us know where the docs can improve!
 
 </alert>
 
@@ -29,3 +29,4 @@ Docs are a work in progress. Leave an issue [here](https://github.com/financialc
 
 <list :items="features"></list>
 
+If you don't see a feature listed, don't hesitate to [create an issue here](https://github.com/financialcpp/financialcpp/issues/new) to discuss your use-case.
